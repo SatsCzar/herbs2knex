@@ -1,3 +1,36 @@
+## [2.1.1](https://github.com/herbsjs/herbs2knex/compare/v2.1.0...v2.1.1) (2023-03-30)
+
+
+### Reverts
+
+* Revert "feat(depencency): bump herbs version" ([ab29178](https://github.com/herbsjs/herbs2knex/commit/ab291785ce570228f00f2641ded35ec004bc81e1))
+* Revert "ci(semantic release): improve version to release (beta, alpha, etc)" ([27fce24](https://github.com/herbsjs/herbs2knex/commit/27fce24f1cb61eaad016413588a9ae104b42900b))
+* **node:** bump node version to 16x ([48f3e42](https://github.com/herbsjs/herbs2knex/commit/48f3e4238ffda311b77ab6e68df76e1b1937bbf3))
+
+# [2.1.0](https://github.com/herbsjs/herbs2knex/compare/v2.0.0...v2.1.0) (2023-03-30)
+
+
+### Features
+
+* **depencency:** bump herbs version ([dd3eac6](https://github.com/herbsjs/herbs2knex/commit/dd3eac6bab39b2eaa7250a87463c390c165548e9))
+
+# [2.0.0](https://github.com/herbsjs/herbs2knex/compare/v1.5.10...v2.0.0) (2023-03-07)
+
+
+### Bug Fixes
+
+* **package.json:** up herbs version ([483131b](https://github.com/herbsjs/herbs2knex/commit/483131bd4358b845f571e197f27b4339ebfdea8b))
+
+
+### Continuous Integration
+
+* fix cd ([c656951](https://github.com/herbsjs/herbs2knex/commit/c6569515f26ba8e64e61da35816db8c84de11515))
+
+
+### BREAKING CHANGES
+
+* upgrade buchu to 2.0
+
 ## [1.5.10](https://github.com/herbsjs/herbs2knex/compare/v1.5.9...v1.5.10) (2023-01-23)
 
 
