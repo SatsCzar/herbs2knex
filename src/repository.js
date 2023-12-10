@@ -237,6 +237,7 @@ module.exports = class Repository {
 
     if (herbs.entity.isEntity(entity)) {
       const fields = Object.values(entity.prototype.meta.schema)
+        .filter((field) => typeof field != 'function')
       const idFields = fields.filter(({ options }) => options.isId)
       const idFieldsNames = idFields.map(({ name }) => name)
 
